@@ -11,10 +11,14 @@
             "id": "d6adf4b7679a00b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "학습 가이드 노트.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "학습 가이드 노트"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "d6adf4b7679a00b8",
   "lastOpenFiles": [
+    "학습 가이드 노트.md",
     "무제.md",
     "환영합니다!.md",
     "무제 1.md",
