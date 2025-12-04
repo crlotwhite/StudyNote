@@ -1,0 +1,66 @@
+---
+date: 2025-12-04
+tags: [daily]
+week: 2025-W49
+projects: [g2p, vegas-extension]
+---
+
+# 1. 오늘 일정 (Schedule)
+
+## 오전
+- [ ] [[Proj-vegas-asr-extension]]: POC 구조 스케치 (1h)
+- [ ] DeepSeek-Math-V2 문서 1회독 (30m)
+
+## 오후
+- [ ] [[Proj-g2p-ko-aligner]]: g2p baseline 리서치 (1.5h)
+- [ ] gradio-pianoroll 리팩토링 범위 정의 (30m)
+
+## 저녁
+- [ ] 수학/신호처리 복습 (Fourier 기초 정리)
+
+---
+
+# 2. 작업 로그 (Work Log)
+
+## Vegas ASR 확장
+- Vegas API 문서 훑어봄
+- Extension 구조 후보:
+  - C# 기반 플러그인 → 로컬 HTTP 서버로 ASR 백엔드 호출
+  - UI: 자막 미리보기 + 타임라인 반영 버튼
+
+## g2p/aligner
+- GTSinger 데이터셋 구조 재확인
+- 기존 aligner 논문 2편 스캔
+
+---
+
+# 3. AI 대화 요약 (Chat Log / AI 회고)
+
+## ChatGPT
+- 주제: Vegas Pro 확장 플러그인 구조 설계
+- 핵심 포인트 3가지:
+  1. Vegas 확장은 “타임라인 → 오디오 추출 → 외부 ASR → 자막 반영” 파이프라인으로 구성.
+  2. 초기에는 POC로, 오프라인 배치 방식(클릭 시 한 번에 인식)으로 구현 후 나중에 반실시간 고려.
+  3. UI/UX는 “1) 영역 선택 → 2) 인식 → 3) 타임라인에 자막 삽입” 플로우로 최소화.
+
+- 코드/설계 스니펫:
+  - (여기에 AI가 정리해준 설계 다이어그램/핵심 코드 붙여넣기)
+
+## Perplexity / 기타
+- (사용했다면 간단히)
+
+---
+
+# 4. 오늘 배운 것 (TIL)
+
+- Vegas 확장 구조 패턴: [[Note-Vegas-Extension-Patterns]]
+- g2p 모델 후보:
+  - Transformer 기반 seq2seq
+  - CTC 기반 간단 aligner 등
+
+---
+
+# 5. 메모 / 잡생각
+
+- RunPod vs TensorDock 비용 다시 비교 필요
+- 오늘 집중도 느낌: 7/10
