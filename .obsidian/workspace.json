@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6ab58f46d87d23",
+        "id": "6a4807e2c2bc2d16",
         "type": "tabs",
         "children": [
           {
-            "id": "12192ee9e1467bc8",
+            "id": "b970c542bca7c396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Resources/디렉토리 구조.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "디렉토리 구조"
+              "title": "새 탭"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Resources/디렉토리 구조.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "디렉토리 구조 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -190,18 +185,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "647a8158a63be459",
+  "active": "b970c542bca7c396",
   "lastOpenFiles": [
+    "05_Archive/무제.md",
+    "03_Areas/무제.md",
+    "02_Projects/Proj-g2p-ko-aligner.md",
+    "01_Daily/2025-12-04.md",
+    "02_Projects/Proj-gradio-pianoroll-refactor.md",
+    "02_Projects/Proj-vegas-asr-extension.md",
+    "04_Resources/디렉토리 구조.md",
     "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
     "README.md",
     "환영합니다!.md",
     "90_Templates/Projects Template.md",
     "무제 1.md",
-    "01_Daily/2025-12-04.md",
-    "04_Resources/디렉토리 구조.md",
     "90_Templates/Daily Template.md",
     "무제.base",
-    "02_Projects/무제.md",
     "04_Resources/학습 가이드 노트.md",
     "90_Templates",
     "05_Archive",
