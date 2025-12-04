@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2a18104ba725972d",
+        "id": "4a6ab58f46d87d23",
         "type": "tabs",
         "children": [
           {
-            "id": "d6adf4b7679a00b8",
+            "id": "12192ee9e1467bc8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/core-plugins.json",
-                "bFile": ".obsidian/core-plugins.json",
-                "aRef": ""
+                "file": "04_Resources/디렉토리 구조.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json"
-            }
-          },
-          {
-            "id": "6026368e2f633ae2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/templates.json",
-                "bFile": ".obsidian/templates.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: templates.json"
+              "icon": "lucide-file",
+              "title": "디렉토리 구조"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "04_Resources/디렉토리 구조.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "디렉토리 구조 의 개요"
             }
           },
           {
@@ -174,6 +159,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "8559819f75dfe8ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -195,15 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6026368e2f633ae2",
+  "active": "647a8158a63be459",
   "lastOpenFiles": [
-    "90_Templates/Projects Template.md",
-    "02_Projects/무제.md",
-    "90_Templates/Daily Template.md",
-    "04_Resources/디렉토리 구조.md",
-    "무제 1.md",
-    "04_Resources/학습 가이드 노트.md",
+    "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
     "README.md",
+    "환영합니다!.md",
+    "90_Templates/Projects Template.md",
+    "무제 1.md",
+    "01_Daily/2025-12-04.md",
+    "04_Resources/디렉토리 구조.md",
+    "90_Templates/Daily Template.md",
+    "무제.base",
+    "02_Projects/무제.md",
+    "04_Resources/학습 가이드 노트.md",
     "90_Templates",
     "05_Archive",
     "04_Resources",
@@ -212,8 +211,6 @@
     "01_Daily",
     "00_Inbox",
     "ZF",
-    "TIL",
-    "환영합니다!.md",
-    "무제.base"
+    "TIL"
   ]
 }

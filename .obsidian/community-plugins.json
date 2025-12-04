@@ -1,5 +1,7 @@
 [
   "obsidian-gist",
   "jupymd",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar",
+  "calendar"
 ]

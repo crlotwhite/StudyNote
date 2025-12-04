@@ -4,7 +4,6 @@ tags: [daily]
 week: 2025-W49
 projects: [g2p, vegas-extension]
 ---
-
 # 1. 오늘 일정 (Schedule)
 
 ## 오전
