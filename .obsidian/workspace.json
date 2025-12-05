@@ -13,15 +13,31 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "무제.mdenc",
-                "bFile": "무제.mdenc",
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 무제.mdenc"
+              "title": "Diff: community-plugins.json"
+            }
+          },
+          {
+            "id": "bc93b597fa6db671",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +201,10 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "89b1e9c788043516",
+  "active": "bc93b597fa6db671",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "04_Resources/4주 개발 로드맵 - 12월.md",
     "환영합니다!.md",
     "무제.mdenc",
     "README.md",
