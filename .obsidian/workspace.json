@@ -11,10 +11,14 @@
             "id": "b970c542bca7c396",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "04_Resources/4주 개발 로드맵 - 12월.md",
+                "bFile": "04_Resources/4주 개발 로드맵 - 12월.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 4주 개발 로드맵 - 12월"
             }
           }
         ]
@@ -187,11 +191,12 @@
   },
   "active": "b970c542bca7c396",
   "lastOpenFiles": [
+    "02_Projects/Proj-gradio-pianoroll-refactor.md",
+    "04_Resources/4주 개발 로드맵 - 12월.md",
     "05_Archive/무제.md",
     "03_Areas/무제.md",
     "02_Projects/Proj-g2p-ko-aligner.md",
     "01_Daily/2025-12-04.md",
-    "02_Projects/Proj-gradio-pianoroll-refactor.md",
     "02_Projects/Proj-vegas-asr-extension.md",
     "04_Resources/디렉토리 구조.md",
     "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
