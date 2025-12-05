@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b94ea0895f913070",
+        "id": "b76bd39de430b7a5",
         "type": "tabs",
         "children": [
           {
-            "id": "b4add4f0d5384c4c",
+            "id": "019acc4d0944acd6",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-view",
-              "state": {
-                "file": "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DiffSinger Fused Kernel 최적화 분석"
+              "title": "새 탭"
             }
           }
         ]
@@ -185,11 +181,11 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "b4add4f0d5384c4c",
+  "active": "647a8158a63be459",
   "lastOpenFiles": [
     "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
-    "무제.mdenc",
     "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
+    "무제.mdenc",
     "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
     "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
     "90_Templates/Projects Template.md",
