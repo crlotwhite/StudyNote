@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9096e3fca2ca9dd0",
+        "id": "b94ea0895f913070",
         "type": "tabs",
         "children": [
           {
-            "id": "ed3d2bd7195dffb9",
+            "id": "b4add4f0d5384c4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-view",
               "state": {
-                "file": "README.md",
+                "file": "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "DiffSinger Fused Kernel 최적화 분석"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "59441621ace97fc0",
@@ -185,17 +185,19 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "ed3d2bd7195dffb9",
+  "active": "b4add4f0d5384c4c",
   "lastOpenFiles": [
-    "환영합니다!.md",
+    "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
     "무제.mdenc",
     "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
-    "03_Areas/무제.md",
+    "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
+    "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
+    "90_Templates/Projects Template.md",
+    "README.md",
+    "환영합니다!.md",
     "04_Resources/디렉토리 구조.md",
     "04_Resources/4주 개발 로드맵 - 12월.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
-    "90_Templates/Projects Template.md",
     "90_Templates/Daily Template.md",
     "90_Templates",
     "05_Archive/무제.md",
@@ -209,10 +211,8 @@
     "02_Projects",
     "01_Daily/2025-12-04.md",
     "01_Daily",
-    "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
     "00_Inbox",
     "학습 가이드 노트.md",
-    "무제 1.md",
-    "무제.base"
+    "무제 1.md"
   ]
 }
