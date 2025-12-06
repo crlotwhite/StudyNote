@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b907e2ab4252122",
+        "id": "1196c7373baea6a6",
         "type": "tabs",
         "children": [
           {
-            "id": "0c931aadb6ef73ca",
+            "id": "a68f765ebbe43f8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Projects/Proj-runecaster-dsl.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Proj-runecaster-dsl"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 300
   },
   "right": {
     "id": "59441621ace97fc0",
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "02_Projects/Proj-runecaster-dsl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "Proj-runecaster-dsl 의 개요"
             }
           },
           {
@@ -158,7 +162,7 @@
             }
           },
           {
-            "id": "365d079d80818d1a",
+            "id": "8559819f75dfe8ea",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -177,12 +181,12 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Lock and Close all open encrypted notes": false,
@@ -191,36 +195,36 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "0c931aadb6ef73ca",
+  "active": "a68f765ebbe43f8b",
   "lastOpenFiles": [
-    "02_Projects/Proj-exe2txt-dllm-rag.md",
-    "02_Projects/Proj-decompile-llm.md",
-    "01_Daily/2025-12-04.md",
-    "02_Projects/Proj-diffsinger-helion-fused-kernel.md",
-    "02_Projects/Proj-g2p-ko-aligner.md",
     "02_Projects/Proj-gradio-pianoroll-refactor.md",
-    "02_Projects/Proj-vegas-asr-extension.md",
-    "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
-    "90_Templates/Projects Template.md",
-    "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
-    "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
-    "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
-    "04_Resources/학습 가이드 노트.md",
-    "무제.base",
-    "04_Resources/4주 개발 로드맵 - 12월.md",
-    "04_Resources/디렉토리 구조.md",
+    "02_Projects/Proj-runecaster-dsl.md",
+    "02_Projects/Proj-decompile-llm.md",
     "무제.mdenc",
+    "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
+    "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
+    "02_Projects/Proj-exe2txt-dllm-rag.md",
+    "02_Projects/Proj-diffsinger-helion-fused-kernel.md",
+    "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
+    "04_Resources/4주 개발 로드맵 - 12월.md",
+    "05_Archive/무제.md",
+    "03_Areas/무제.md",
+    "02_Projects/Proj-g2p-ko-aligner.md",
+    "01_Daily/2025-12-04.md",
+    "02_Projects/Proj-vegas-asr-extension.md",
+    "04_Resources/디렉토리 구조.md",
+    "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
     "README.md",
     "환영합니다!.md",
-    "conflict-files-obsidian-git.md",
+    "90_Templates/Projects Template.md",
+    "무제 1.md",
     "90_Templates/Daily Template.md",
+    "무제.base",
+    "04_Resources/학습 가이드 노트.md",
     "90_Templates",
-    "05_Archive/무제.md",
     "05_Archive",
     "04_Resources",
     "03_Areas",
-    "02_Projects",
-    "학습 가이드 노트.md",
-    "무제 1.md"
+    "02_Projects"
   ]
 }
