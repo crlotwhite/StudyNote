@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "프로그래밍 언어 개발 프롬프트"
             }
+          },
+          {
+            "id": "7eef8b283aabb791",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +211,12 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "1532745491460cc6",
+  "active": "7eef8b283aabb791",
   "lastOpenFiles": [
-    "06_Prompts/엘든링 모드 개발 프롬프트.md",
+    "02_Projects/Proj-runecaster-dsl.md",
     "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
+    "conflict-files-obsidian-git.md",
+    "06_Prompts/엘든링 모드 개발 프롬프트.md",
     "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
     "00_Inbox/LLM 사용 법칙.md",
     "06_Prompts/kouta 개발 프롬프트.md",
@@ -223,8 +241,6 @@
     "01_Daily/2025-12-04.md",
     "02_Projects/Proj-diffsinger-helion-fused-kernel.md",
     "02_Projects/Proj-g2p-ko-aligner.md",
-    "02_Projects/Proj-gradio-pianoroll-refactor.md",
-    "02_Projects/Proj-vegas-asr-extension.md",
     "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
     "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
     "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
