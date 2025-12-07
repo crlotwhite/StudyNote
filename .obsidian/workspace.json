@@ -4,40 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "be08a20fd71a867e",
+        "id": "941eb391f07a7795",
         "type": "tabs",
         "children": [
           {
-            "id": "1532745491460cc6",
+            "id": "4d8ef6de8f0fff6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251207155323.png"
               },
-              "icon": "lucide-file",
-              "title": "프로그래밍 언어 개발 프롬프트"
-            }
-          },
-          {
-            "id": "7eef8b283aabb791",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251207155323"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +193,12 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "7eef8b283aabb791",
+  "active": "4d8ef6de8f0fff6e",
   "lastOpenFiles": [
-    "02_Projects/Proj-runecaster-dsl.md",
+    "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
+    "Pasted image 20251207155323.png",
     "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
+    "02_Projects/Proj-runecaster-dsl.md",
     "conflict-files-obsidian-git.md",
     "06_Prompts/엘든링 모드 개발 프롬프트.md",
     "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
@@ -239,8 +223,6 @@
     "02_Projects/Proj-exe2txt-dllm-rag.md",
     "02_Projects/Proj-decompile-llm.md",
     "01_Daily/2025-12-04.md",
-    "02_Projects/Proj-diffsinger-helion-fused-kernel.md",
-    "02_Projects/Proj-g2p-ko-aligner.md",
     "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
     "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
     "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
