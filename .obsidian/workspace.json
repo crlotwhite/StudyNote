@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3267c2dafac19515",
+        "id": "169d0433c03531da",
         "type": "tabs",
         "children": [
           {
-            "id": "42ea60febe61a8d5",
+            "id": "4674e886ed3a5804",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "90_Templates/Daily Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Daily Template"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "59441621ace97fc0",
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Projects/Proj-runecaster-dsl.md",
+                "file": "환영합니다!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Proj-runecaster-dsl 의 개요"
+              "title": "환영합니다! 의 개요"
             }
           },
           {
@@ -158,7 +162,7 @@
             }
           },
           {
-            "id": "8559819f75dfe8ea",
+            "id": "365d079d80818d1a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -177,12 +181,12 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "bases:새 베이스 생성하기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Lock and Close all open encrypted notes": false,
@@ -191,43 +195,44 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "42ea60febe61a8d5",
+  "active": "4674e886ed3a5804",
   "lastOpenFiles": [
-    "02_Projects/Proj-sound-sketchbook.mdenc",
-    "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
-    "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
-    "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
-    "인터렉티브 DSP 교육 앱.pdf",
-    "02_Projects/Proj-runecaster-dsl.md",
-    "Pasted image 20251207155323.png",
-    "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
-    "06_Prompts/테스트 마스터 명령어 모음.md",
-    "06_Prompts/최적화 지시 프롬프트 벡업.md",
-    "06_Prompts/우타우 엔진 프롬프트.md",
-    "06_Prompts/엘든링 모드 개발 프롬프트.md",
+    "90_Templates/Projects Template.md",
+    "00_Inbox/NotebookLM 소식 트윗 백업.md",
+    "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
+    "00_Inbox/Diffsinger 자동 학습 계획.md",
+    "00_Inbox/C++ 공부 순서 추천.md",
+    "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
+    "00_Inbox/아이디어.md",
+    "00_Inbox/우타우 관련 프롬프트.md",
+    "00_Inbox/무제.md",
+    "02_Projects/Proj-diffsinger-helion-fused-kernel.md",
+    "02_Projects/Proj-decompile-llm.md",
+    "02_Projects/Proj-copier-mcp-py.md",
+    "02_Projects/Proj-gradio-pianoroll-refactor.md",
+    "02_Projects/Proj-g2p-ko-aligner.md",
+    "02_Projects/Proj-exe2txt-dllm-rag.md",
     "06_Prompts/수학 라이브러리 생성 프롬프트.md",
     "06_Prompts/kouta 개발 프롬프트.md",
+    "02_Projects/Proj-sound-sketchbook.mdenc",
+    "Pasted image 20251207155323.png",
+    "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
+    "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
+    "02_Projects/Proj-runecaster-dsl.md",
+    "conflict-files-obsidian-git.md",
+    "06_Prompts/엘든링 모드 개발 프롬프트.md",
+    "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
+    "00_Inbox/LLM 사용 법칙.md",
+    "06_Prompts/최적화 지시 프롬프트 벡업.md",
     "06_Prompts/fft 생성 라이브러리.md",
     "06_Prompts/exe 자동 분석.md",
+    "00_Inbox/무제",
     "06_Prompts/claude code 번역 hook.md",
-    "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
     "06_Prompts",
-    "00_Inbox/우타우 관련 프롬프트.md",
-    "00_Inbox/아이디어.md",
-    "00_Inbox/무제.md",
-    "00_Inbox/NotebookLM 소식 트윗 백업.md",
-    "00_Inbox/LLM 사용 법칙.md",
-    "00_Inbox/Diffsinger 자동 학습 계획.md",
-    "00_Inbox/C++ 학습 전략 대화 내용 백업.md",
-    "00_Inbox/C++ 공부 순서 추천.md",
-    "02_Projects/Proj-gradio-pianoroll-refactor.md",
-    "02_Projects/Proj-decompile-llm.md",
-    "무제.mdenc",
+    "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
     "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
-    "02_Projects/Proj-exe2txt-dllm-rag.md",
-    "02_Projects/Proj-diffsinger-helion-fused-kernel.md",
-    "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
     "무제.base",
+    "무제.mdenc",
     "90_Templates"
   ]
 }
