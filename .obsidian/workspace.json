@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87844b7638e07a73",
+        "id": "2b1530befc99f586",
         "type": "tabs",
         "children": [
           {
-            "id": "59de3042eab4764c",
+            "id": "74c511cac8f5ee77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Projects/Proj-llm-juce-polysynth.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Proj-llm-juce-polysynth"
             }
           }
         ]
@@ -191,9 +195,16 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "59de3042eab4764c",
+  "active": "74c511cac8f5ee77",
   "lastOpenFiles": [
-    "02_Projects/Proj-sound-sketchbook.mdenc",
+    "02_Projects/Proj-llm-juce-polysynth.md",
+    "02_Projects/Proj-sound-sketchbook.md",
+    "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
+    "06_Prompts/우타우 엔진 프롬프트.md",
+    "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
+    "06_Prompts/fft 생성 라이브러리.md",
+    "06_Prompts/exe 자동 분석.md",
+    "06_Prompts/claude code 번역 hook.md",
     "00_Inbox/LLM 안정성 검사 질문.mdenc",
     "90_Templates/Daily Template.md",
     "90_Templates/Projects Template.md",
@@ -216,19 +227,11 @@
     "Pasted image 20251207155323.png",
     "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
     "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
-    "02_Projects/Proj-runecaster-dsl.md",
-    "conflict-files-obsidian-git.md",
-    "06_Prompts/엘든링 모드 개발 프롬프트.md",
-    "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
-    "00_Inbox/LLM 사용 법칙.md",
-    "06_Prompts/최적화 지시 프롬프트 벡업.md",
-    "06_Prompts/fft 생성 라이브러리.md",
     "00_Inbox/무제",
     "06_Prompts",
     "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
     "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
     "무제.base",
-    "무제.mdenc",
-    "90_Templates"
+    "무제.mdenc"
   ]
 }
