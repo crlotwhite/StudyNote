@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1530befc99f586",
+        "id": "c1da1ce636ce13dc",
         "type": "tabs",
         "children": [
           {
-            "id": "74c511cac8f5ee77",
+            "id": "3a02da96e13c5d95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Projects/Proj-llm-juce-polysynth.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Proj-llm-juce-polysynth"
+              "title": "새 탭"
             }
           }
         ]
@@ -195,8 +191,9 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "74c511cac8f5ee77",
+  "active": "3a02da96e13c5d95",
   "lastOpenFiles": [
+    "06_Prompts/신스 개발.md",
     "02_Projects/Proj-llm-juce-polysynth.md",
     "02_Projects/Proj-sound-sketchbook.md",
     "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
@@ -226,7 +223,6 @@
     "06_Prompts/kouta 개발 프롬프트.md",
     "Pasted image 20251207155323.png",
     "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
-    "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
     "00_Inbox/무제",
     "06_Prompts",
     "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
