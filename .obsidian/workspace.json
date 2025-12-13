@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "프로젝트 문서 자동 생성 프롬프트"
             }
+          },
+          {
+            "id": "53c2373713b5062f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +210,12 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "db65e5476dcf9f73",
+  "active": "53c2373713b5062f",
   "lastOpenFiles": [
-    "02_Projects/무제.md",
+    "conflict-files-obsidian-git.md",
     "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
+    "06_Prompts/무제.md",
+    "02_Projects/무제.md",
     "90_Templates/Projects Template.md",
     "00_Inbox/GitHub Copilot agents.md 작성 가이드 요약.md",
     "06_Prompts/신스 개발.md",
@@ -223,8 +240,6 @@
     "02_Projects/Proj-decompile-llm.md",
     "02_Projects/Proj-copier-mcp-py.md",
     "02_Projects/Proj-gradio-pianoroll-refactor.md",
-    "02_Projects/Proj-g2p-ko-aligner.md",
-    "02_Projects/Proj-exe2txt-dllm-rag.md",
     "Pasted image 20251207155323.png",
     "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
     "00_Inbox/무제",
