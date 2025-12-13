@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1da1ce636ce13dc",
+        "id": "046d91d53fef3ccf",
         "type": "tabs",
         "children": [
           {
-            "id": "3a02da96e13c5d95",
+            "id": "db65e5476dcf9f73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "프로젝트 문서 자동 생성 프롬프트"
             }
           }
         ]
@@ -191,12 +195,15 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "3a02da96e13c5d95",
+  "active": "db65e5476dcf9f73",
   "lastOpenFiles": [
+    "02_Projects/무제.md",
+    "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
+    "90_Templates/Projects Template.md",
+    "00_Inbox/GitHub Copilot agents.md 작성 가이드 요약.md",
     "06_Prompts/신스 개발.md",
     "02_Projects/Proj-llm-juce-polysynth.md",
     "02_Projects/Proj-sound-sketchbook.md",
-    "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
     "06_Prompts/우타우 엔진 프롬프트.md",
     "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
     "06_Prompts/fft 생성 라이브러리.md",
@@ -204,7 +211,6 @@
     "06_Prompts/claude code 번역 hook.md",
     "00_Inbox/LLM 안정성 검사 질문.mdenc",
     "90_Templates/Daily Template.md",
-    "90_Templates/Projects Template.md",
     "00_Inbox/NotebookLM 소식 트윗 백업.md",
     "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
     "00_Inbox/Diffsinger 자동 학습 계획.md",
@@ -219,8 +225,6 @@
     "02_Projects/Proj-gradio-pianoroll-refactor.md",
     "02_Projects/Proj-g2p-ko-aligner.md",
     "02_Projects/Proj-exe2txt-dllm-rag.md",
-    "06_Prompts/수학 라이브러리 생성 프롬프트.md",
-    "06_Prompts/kouta 개발 프롬프트.md",
     "Pasted image 20251207155323.png",
     "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
     "00_Inbox/무제",
