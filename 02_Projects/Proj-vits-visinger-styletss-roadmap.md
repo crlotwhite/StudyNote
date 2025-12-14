@@ -1,5 +1,3 @@
-# Proj-vits-visinger-styletss-roadmap
-
 ## 0. 개요
 - 목표: VITS → VISinger → StyleTTS 논문 구현/재현을 위해, 선행 DSP + 핵심 딥러닝 구조(Flow/MAS 등)를 먼저 학습한 뒤 단계적으로 구현 역량을 확보
 - 마감: Day1~18 학습/구현 로드맵 완주(18일 플랜, 시작일은 별도 지정)
