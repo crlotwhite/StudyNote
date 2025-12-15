@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d22d11ce206b8a9",
+        "id": "7657e010170060c4",
         "type": "tabs",
         "children": [
           {
-            "id": "a6444af4525618f8",
+            "id": "a19153ed055241bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/무제 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "무제 1"
             }
           }
         ]
@@ -191,43 +195,43 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "a6444af4525618f8",
+  "active": "a19153ed055241bf",
   "lastOpenFiles": [
+    "06_Prompts/캐릭터 레퍼런스 생성 프롬프트.md",
+    "00_Inbox/무제 1.md",
+    "02_Projects/Proj-llm-juce-polysynth.md",
+    "06_Prompts/프로그래밍 언어 개발 프롬프트.md",
     "02_Projects/Proj-vits-visinger-styletss-roadmap.md",
-    "02_Projects/Proj-exe-analyzer-mcp.md",
+    "02_Projects/Proj-sound-sketchbook.md",
+    "02_Projects/Proj-runecaster-dsl.md",
     "02_Projects/Proj-mcp-git-analyzer.md",
-    "02_Projects/Proj-copier-mcp-py.md",
+    "02_Projects/Proj-gradio-pianoroll-refactor.md",
+    "02_Projects/Proj-g2p-ko-aligner.md",
+    "02_Projects/Proj-exe2txt-dllm-rag.md",
+    "02_Projects/Proj-exe-analyzer-mcp.md",
+    "02_Projects/Proj-diffsinger-helion-fused-kernel.md",
     "02_Projects/Proj-decompile-llm.md",
+    "02_Projects/Proj-copier-mcp-py.md",
+    "무제.mdenc",
+    "README.md",
+    "Pasted image 20251207155323.png",
     "06_Prompts/프로젝트 문서 자동 생성 프롬프트.md",
     "conflict-files-obsidian-git.md",
     "06_Prompts/무제.md",
     "90_Templates/Projects Template.md",
     "00_Inbox/GitHub Copilot agents.md 작성 가이드 요약.md",
     "06_Prompts/신스 개발.md",
-    "02_Projects/Proj-llm-juce-polysynth.md",
-    "02_Projects/Proj-sound-sketchbook.md",
     "06_Prompts/우타우 엔진 프롬프트.md",
     "06_Prompts/JUCE 관련 기능 개발 프롬프트 백업.md",
     "06_Prompts/fft 생성 라이브러리.md",
     "06_Prompts/exe 자동 분석.md",
-    "06_Prompts/claude code 번역 hook.md",
     "00_Inbox/LLM 안정성 검사 질문.mdenc",
-    "90_Templates/Daily Template.md",
-    "00_Inbox/NotebookLM 소식 트윗 백업.md",
-    "00_Inbox/MCP 도구 개발이 내 개발 커리어에 주는 영향.md",
-    "00_Inbox/Diffsinger 자동 학습 계획.md",
-    "00_Inbox/C++ 공부 순서 추천.md",
     "00_Inbox/AI의 미래에 대한 비전 with claude.mdenc",
-    "00_Inbox/아이디어.md",
-    "00_Inbox/우타우 관련 프롬프트.md",
-    "00_Inbox/무제.md",
-    "Pasted image 20251207155323.png",
     "03_Areas/인터렉티브 DSP 교육 앱.mdenc",
     "00_Inbox/무제",
     "06_Prompts",
     "03_Areas/DiffSinger Fused Kernel 최적화 분석.mdenc",
     "03_Areas/Project ONNX to PyTorch Decompiler (Metadata-Free).mdenc",
-    "무제.base",
-    "무제.mdenc"
+    "무제.base"
   ]
 }
